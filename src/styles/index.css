@@ -26,4 +26,6 @@
     color: white;
     height: 4rem;
     align-content: end;
+    position: absolute;
+    bottom: 0;
 }

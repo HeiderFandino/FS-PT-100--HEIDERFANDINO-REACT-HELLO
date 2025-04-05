@@ -14,7 +14,7 @@ const Home = () => {
 			<Navbar/>	
           <div className="container">
 			<Jumbotron/>
-				<div className="row d-flex justify-content-between">
+				<div className="row d-flex justify-content-center">
 					<Card/>
 					<Card/>
 					<Card/>
