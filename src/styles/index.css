@@ -13,8 +13,7 @@
     background-color: black;
 }
 .card1{
-    width: 18rem;
-    margin: 1rem;
+   margin: 2rem 0rem ;
 }
 
 .cardjumbotron{
@@ -24,8 +23,15 @@
 .footers{
     background-color: black;
     color: white;
-    height: 4rem;
+    height: 3rem;
     align-content: end;
     position: absolute;
     bottom: 0;
+}
+
+.Maincontainer{
+    position: relative; 
+    padding-bottom: 3rem;
+    min-height: 100vh;
+
 }

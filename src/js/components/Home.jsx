@@ -10,11 +10,11 @@ import { Footer } from "./footer.jsx";
 //create your first component
 const Home = () => {
 	return (
-		<div className="text-center">
+		<div className="text-center Maincontainer">
 			<Navbar/>	
           <div className="container">
 			<Jumbotron/>
-				<div className="row d-flex justify-content-center">
+				<div className="row ">
 					<Card/>
 					<Card/>
 					<Card/>
